@@ -1,5 +1,5 @@
 # [1514. Path with Maximum Probability](https://leetcode.com/problems/path-with-maximum-probability/)
-# The standard dijkstra algorithm is finding the minimum path. For this problem, it is fining the maximum path.
+# The standard dijkstra algorithm is finding the minimum path. For this problem, it is finding the maximum path.
 
 ```cpp
 /*
